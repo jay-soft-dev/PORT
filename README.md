@@ -14,6 +14,4 @@ A responsive, blueprint-inspired personal portfolio website built to showcase th
 
 ```text
 ├── index.html   # Main portfolio structure, hero, journey, work, skills & contact sections
-├── style.css    # Custom CAD blueprint grid overlay, scrollbar & active tab styles
-├── script.js    # Interactive journey tab switcher and clipboard copy toast logic
 └── pic.jpeg     # Profile portrait image
