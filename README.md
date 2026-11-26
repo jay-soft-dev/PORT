@@ -1,6 +1,6 @@
 # Rohit Anil Shinde — Mechanical Engineering Portfolio
 
-A responsive, blueprint-inspired personal portfolio website built to showcase the academic background, industrial training, engineering projects, and technical toolkit of **Rohit Anil Shinde** (B.E. Mechanical Engineering).
+A responsive, blueprint-inspired personal portfolio website built to showcase the academic background, industrial training, engineering projects, and technical toolkit of **Rohit Anil Shinde** (B.E. Mechanical Engineering.
 
 ## Key Features
 
